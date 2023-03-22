@@ -1,5 +1,3 @@
-.dockerignore
-
 **/_pycache_
 **/.venv
 **/.classpath
